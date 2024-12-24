@@ -1,4 +1,7 @@
-## Hi there 👋
+##✸ Luiza Nepomuceno ✸
+
+Oi! Eu sou a Luiza, e aqui tento trazer um pouco da minha grande paixão, que é programar. Sou Técnica em Informática e atualmente estou cursando o bacharelado em Ciência de Dados.
+Um dos meus objetivos aqui é alimentar minha página com tarefas e códigos que faço/utlizo durante a graduação. Então, seja bem vindo(a) a essa jornada de uma apaixonada aprendiz ;)
 
 <!--
 **lulidsnn/lulidsnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
