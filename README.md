@@ -27,7 +27,7 @@ Nesse momento, sou bolsista em um projeto de pesquisa e desenvolvimento, em que 
 
 <h2>Onde me encontrar?</h2>
 
-[![](https://img.shields.io/badge/LinkedIn-6ba081?style=flat&for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/luiza-nepomuceno-6994122a0)
+[![](https://img.shields.io/badge/LinkedIn-6ba081?style=flat&for-the-badge&logo=linkedin&logoColor=white)]()
 [![](https://img.shields.io/badge/luizanepomuceno@alu.ufc.br-6ba081?style=flat&for-the-badge&logo=gmail&logoColor=white)]()
 
 
