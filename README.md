@@ -1,4 +1,4 @@
-# ✸ Luiza Nepomuceno 
+# Luiza Nepomuceno ✸
 
 **`Graduanda em Ciência de Dados`** 
 
@@ -29,3 +29,7 @@ Nesse momento, sou bolsista em um projeto de pesquisa e desenvolvimento, em que 
 
 [![](https://img.shields.io/badge/LinkedIn-6ba081?style=flat&for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/luiza-nepomuceno-6994122a0)
 [![](https://img.shields.io/badge/luizanepomuceno@alu.ufc.br-6ba081?style=flat&for-the-badge&logo=gmail&logoColor=white)]()
+
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=lulidsnn&hide=html&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=lulidsnn&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
