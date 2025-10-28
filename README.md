@@ -9,19 +9,17 @@ Um dos meus objetivos aqui é alimentar minha página com tarefas e códigos que
 Nesse momento, sou bolsista em um projeto de pesquisa e desenvolvimento, em que faço parte do time de visualização! Assim, meus estudos estão voltados a **`Front-end`**  e **`Visualização de Dados`**.
 <h2>Linguagens e ferramentas</h2>
 
-[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
-[![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
-[![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![](https://img.shields.io/badge/Python-3870a1?style=for-the-badge&logo=python&logoColor=FFD43B)]()
 [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)]()
 [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)]()
 [![](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=white)]()
 [![](https://img.shields.io/badge/Seaborn-8bb8c2?style=for-the-badge&logo=white)]()
 [![](https://img.shields.io/badge/Tableau-5b6398?style=for-the-badge&logo=Tableau&logoColor=white)]()
-[![](https://img.shields.io/badge/d3%20js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)]()
+[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
+[![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)]()
 
 
