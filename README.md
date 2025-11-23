@@ -30,8 +30,7 @@ Nesse momento, sou bolsista em um projeto de pesquisa e desenvolvimento, em que 
 
 
 <p>
-  <img height="160" style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=lulidsnn&theme=cobalt&show_icons=true&hide_rank=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulidsnn&hide=html&layout=compact&theme=cobalt&langs_count=6" />
+  <img height="160" style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulidsnn&hide=html&layout=compact&theme=cobalt&langs_count=6" />
 </p>
 
 
