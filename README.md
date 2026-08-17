@@ -6,8 +6,8 @@ Oi! Eu sou a Luiza, e aqui tento trazer um pouco da minha grande paixão, que é
 
 Um dos meus objetivos aqui é alimentar minha página com tarefas e códigos que faço/utlizo durante a graduação. Então, seja bem vindo(a) a essa jornada de uma apaixonada aprendiz ;)
 
-Nesse momento, sou bolsista em um projeto de pesquisa e desenvolvimento, em que faço parte do time de visualização! Assim, meus estudos estão voltados a **`Front-end`**  e **`Visualização de Dados`**.
-<h2>Linguagens e ferramentas</h2>
+<!-- Nesse momento, sou bolsista em um projeto de pesquisa e desenvolvimento, em que faço parte do time de visualização! Assim, meus estudos estão voltados a **`Front-end`**  e **`Visualização de Dados`**.
+<h2>Linguagens e ferramentas</h2> -->
 
 [![](https://img.shields.io/badge/Python-3870a1?style=for-the-badge&logo=python&logoColor=FFD43B)]()
 [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)]()
